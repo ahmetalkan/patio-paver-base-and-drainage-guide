@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmetalkan.github.io/patio-paver-base-and-drainage-guide/sitemap.xml
